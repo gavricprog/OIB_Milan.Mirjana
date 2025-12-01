@@ -1,0 +1,18 @@
+﻿[
+  {
+    "Id": 1,
+    "LatinName": "Felis catus",
+    "Name": "Maca",
+    "Type": 0,
+    "Price": 50.0,
+    "Sold": false
+  },
+  {
+    "Id": 2,
+    "LatinName": "Canis lupus familiaris",
+    "Name": "Pas",
+    "Type": 0,
+    "Price": 100.0,
+    "Sold": false
+  }
+]

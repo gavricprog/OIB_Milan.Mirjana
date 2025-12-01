@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MilanGavric\\OneDrive - Milovanovi\u0107 \u0026 Milovanovi\u0107 d.o.o. Beograd\\Desktop\\Milan\\PetShop1\\PetShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC2D3BA-96C6-417F-89BB-02B2AB2C2713}|PetShop.csproj|c:\\users\\milangavric\\onedrive - milovanovi\u0107 \u0026 milovanovi\u0107 d.o.o. beograd\\desktop\\milan\\petshop1\\petshop\\repositories\\ipetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC2D3BA-96C6-417F-89BB-02B2AB2C2713}|PetShop.csproj|solutionrelative:repositories\\ipetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC2D3BA-96C6-417F-89BB-02B2AB2C2713}|PetShop.csproj|C:\\Users\\MilanGavric\\OneDrive - Milovanovi\u0107 \u0026 Milovanovi\u0107 d.o.o. Beograd\\Desktop\\Milan\\PetShop1\\PetShop\\repositories\\userrepositoryjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC2D3BA-96C6-417F-89BB-02B2AB2C2713}|PetShop.csproj|solutionrelative:repositories\\userrepositoryjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC2D3BA-96C6-417F-89BB-02B2AB2C2713}|PetShop.csproj|C:\\Users\\MilanGavric\\OneDrive - Milovanovi\u0107 \u0026 Milovanovi\u0107 d.o.o. Beograd\\Desktop\\Milan\\PetShop1\\PetShop\\services\\iloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC2D3BA-96C6-417F-89BB-02B2AB2C2713}|PetShop.csproj|solutionrelative:services\\iloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC2D3BA-96C6-417F-89BB-02B2AB2C2713}|PetShop.csproj|C:\\Users\\MilanGavric\\OneDrive - Milovanovi\u0107 \u0026 Milovanovi\u0107 d.o.o. Beograd\\Desktop\\Milan\\PetShop1\\PetShop\\services\\logtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC2D3BA-96C6-417F-89BB-02B2AB2C2713}|PetShop.csproj|solutionrelative:services\\logtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC2D3BA-96C6-417F-89BB-02B2AB2C2713}|PetShop.csproj|C:\\Users\\MilanGavric\\OneDrive - Milovanovi\u0107 \u0026 Milovanovi\u0107 d.o.o. Beograd\\Desktop\\Milan\\PetShop1\\PetShop\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC2D3BA-96C6-417F-89BB-02B2AB2C2713}|PetShop.csproj|solutionrelative:entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC2D3BA-96C6-417F-89BB-02B2AB2C2713}|PetShop.csproj|C:\\Users\\MilanGavric\\OneDrive - Milovanovi\u0107 \u0026 Milovanovi\u0107 d.o.o. Beograd\\Desktop\\Milan\\PetShop1\\PetShop\\repositories\\receiptrepositoryjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC2D3BA-96C6-417F-89BB-02B2AB2C2713}|PetShop.csproj|solutionrelative:repositories\\receiptrepositoryjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC2D3BA-96C6-417F-89BB-02B2AB2C2713}|PetShop.csproj|C:\\Users\\MilanGavric\\OneDrive - Milovanovi\u0107 \u0026 Milovanovi\u0107 d.o.o. Beograd\\Desktop\\Milan\\PetShop1\\PetShop\\repositories\\ireceiptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC2D3BA-96C6-417F-89BB-02B2AB2C2713}|PetShop.csproj|solutionrelative:repositories\\ireceiptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC2D3BA-96C6-417F-89BB-02B2AB2C2713}|PetShop.csproj|C:\\Users\\MilanGavric\\OneDrive - Milovanovi\u0107 \u0026 Milovanovi\u0107 d.o.o. Beograd\\Desktop\\Milan\\PetShop1\\PetShop\\repositories\\petrepositoryjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC2D3BA-96C6-417F-89BB-02B2AB2C2713}|PetShop.csproj|solutionrelative:repositories\\petrepositoryjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC2D3BA-96C6-417F-89BB-02B2AB2C2713}|PetShop.csproj|C:\\Users\\MilanGavric\\OneDrive - Milovanovi\u0107 \u0026 Milovanovi\u0107 d.o.o. Beograd\\Desktop\\Milan\\PetShop1\\PetShop\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC2D3BA-96C6-417F-89BB-02B2AB2C2713}|PetShop.csproj|solutionrelative:repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC2D3BA-96C6-417F-89BB-02B2AB2C2713}|PetShop.csproj|C:\\Users\\MilanGavric\\OneDrive - Milovanovi\u0107 \u0026 Milovanovi\u0107 d.o.o. Beograd\\Desktop\\Milan\\PetShop1\\PetShop\\entities\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC2D3BA-96C6-417F-89BB-02B2AB2C2713}|PetShop.csproj|solutionrelative:entities\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC2D3BA-96C6-417F-89BB-02B2AB2C2713}|PetShop.csproj|C:\\Users\\MilanGavric\\OneDrive - Milovanovi\u0107 \u0026 Milovanovi\u0107 d.o.o. Beograd\\Desktop\\Milan\\PetShop1\\PetShop\\entities\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC2D3BA-96C6-417F-89BB-02B2AB2C2713}|PetShop.csproj|solutionrelative:entities\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC2D3BA-96C6-417F-89BB-02B2AB2C2713}|PetShop.csproj|C:\\Users\\MilanGavric\\OneDrive - Milovanovi\u0107 \u0026 Milovanovi\u0107 d.o.o. Beograd\\Desktop\\Milan\\PetShop1\\PetShop\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC2D3BA-96C6-417F-89BB-02B2AB2C2713}|PetShop.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC2D3BA-96C6-417F-89BB-02B2AB2C2713}|PetShop.csproj|C:\\Users\\MilanGavric\\OneDrive - Milovanovi\u0107 \u0026 Milovanovi\u0107 d.o.o. Beograd\\Desktop\\Milan\\PetShop1\\PetShop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC2D3BA-96C6-417F-89BB-02B2AB2C2713}|PetShop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC2D3BA-96C6-417F-89BB-02B2AB2C2713}|PetShop.csproj|C:\\Users\\MilanGavric\\OneDrive - Milovanovi\u0107 \u0026 Milovanovi\u0107 d.o.o. Beograd\\Desktop\\Milan\\PetShop1\\PetShop\\entities\\pettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC2D3BA-96C6-417F-89BB-02B2AB2C2713}|PetShop.csproj|solutionrelative:entities\\pettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILoggerService.cs",
+              "DocumentMoniker": "C:\\Users\\MilanGavric\\OneDrive - Milovanovi\u0107 \u0026 Milovanovi\u0107 d.o.o. Beograd\\Desktop\\Milan\\PetShop1\\PetShop\\Services\\ILoggerService.cs",
+              "RelativeDocumentMoniker": "Services\\ILoggerService.cs",
+              "ToolTip": "C:\\Users\\MilanGavric\\OneDrive - Milovanovi\u0107 \u0026 Milovanovi\u0107 d.o.o. Beograd\\Desktop\\Milan\\PetShop1\\PetShop\\Services\\ILoggerService.cs",
+              "RelativeToolTip": "Services\\ILoggerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T08:42:43.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogType.cs",
+              "DocumentMoniker": "C:\\Users\\MilanGavric\\OneDrive - Milovanovi\u0107 \u0026 Milovanovi\u0107 d.o.o. Beograd\\Desktop\\Milan\\PetShop1\\PetShop\\Services\\LogType.cs",
+              "RelativeDocumentMoniker": "Services\\LogType.cs",
+              "ToolTip": "C:\\Users\\MilanGavric\\OneDrive - Milovanovi\u0107 \u0026 Milovanovi\u0107 d.o.o. Beograd\\Desktop\\Milan\\PetShop1\\PetShop\\Services\\LogType.cs",
+              "RelativeToolTip": "Services\\LogType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T08:39:57.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReceiptRepositoryJson.cs",
+              "DocumentMoniker": "C:\\Users\\MilanGavric\\OneDrive - Milovanovi\u0107 \u0026 Milovanovi\u0107 d.o.o. Beograd\\Desktop\\Milan\\PetShop1\\PetShop\\Repositories\\ReceiptRepositoryJson.cs",
+              "RelativeDocumentMoniker": "Repositories\\ReceiptRepositoryJson.cs",
+              "ToolTip": "C:\\Users\\MilanGavric\\OneDrive - Milovanovi\u0107 \u0026 Milovanovi\u0107 d.o.o. Beograd\\Desktop\\Milan\\PetShop1\\PetShop\\Repositories\\ReceiptRepositoryJson.cs",
+              "RelativeToolTip": "Repositories\\ReceiptRepositoryJson.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wCMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T08:37:18.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IReceiptRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MilanGavric\\OneDrive - Milovanovi\u0107 \u0026 Milovanovi\u0107 d.o.o. Beograd\\Desktop\\Milan\\PetShop1\\PetShop\\Repositories\\IReceiptRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IReceiptRepository.cs",
+              "ToolTip": "C:\\Users\\MilanGavric\\OneDrive - Milovanovi\u0107 \u0026 Milovanovi\u0107 d.o.o. Beograd\\Desktop\\Milan\\PetShop1\\PetShop\\Repositories\\IReceiptRepository.cs",
+              "RelativeToolTip": "Repositories\\IReceiptRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T08:36:49.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PetRepositoryJson.cs",
+              "DocumentMoniker": "C:\\Users\\MilanGavric\\OneDrive - Milovanovi\u0107 \u0026 Milovanovi\u0107 d.o.o. Beograd\\Desktop\\Milan\\PetShop1\\PetShop\\Repositories\\PetRepositoryJson.cs",
+              "RelativeDocumentMoniker": "Repositories\\PetRepositoryJson.cs",
+              "ToolTip": "C:\\Users\\MilanGavric\\OneDrive - Milovanovi\u0107 \u0026 Milovanovi\u0107 d.o.o. Beograd\\Desktop\\Milan\\PetShop1\\PetShop\\Repositories\\PetRepositoryJson.cs",
+              "RelativeToolTip": "Repositories\\PetRepositoryJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T08:36:09.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IPetRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MilanGavric\\OneDrive - Milovanovi\u0107 \u0026 Milovanovi\u0107 d.o.o. Beograd\\Desktop\\Milan\\PetShop1\\PetShop\\Repositories\\IPetRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IPetRepository.cs",
+              "ToolTip": "C:\\Users\\MilanGavric\\OneDrive - Milovanovi\u0107 \u0026 Milovanovi\u0107 d.o.o. Beograd\\Desktop\\Milan\\PetShop1\\PetShop\\Repositories\\IPetRepository.cs",
+              "RelativeToolTip": "Repositories\\IPetRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T08:35:31.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepositoryJson.cs",
+              "DocumentMoniker": "C:\\Users\\MilanGavric\\OneDrive - Milovanovi\u0107 \u0026 Milovanovi\u0107 d.o.o. Beograd\\Desktop\\Milan\\PetShop1\\PetShop\\Repositories\\UserRepositoryJson.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepositoryJson.cs",
+              "ToolTip": "C:\\Users\\MilanGavric\\OneDrive - Milovanovi\u0107 \u0026 Milovanovi\u0107 d.o.o. Beograd\\Desktop\\Milan\\PetShop1\\PetShop\\Repositories\\UserRepositoryJson.cs",
+              "RelativeToolTip": "Repositories\\UserRepositoryJson.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T08:31:20.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MilanGavric\\OneDrive - Milovanovi\u0107 \u0026 Milovanovi\u0107 d.o.o. Beograd\\Desktop\\Milan\\PetShop1\\PetShop\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\MilanGavric\\OneDrive - Milovanovi\u0107 \u0026 Milovanovi\u0107 d.o.o. Beograd\\Desktop\\Milan\\PetShop1\\PetShop\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T08:30:32.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Receipt.cs",
+              "DocumentMoniker": "C:\\Users\\MilanGavric\\OneDrive - Milovanovi\u0107 \u0026 Milovanovi\u0107 d.o.o. Beograd\\Desktop\\Milan\\PetShop1\\PetShop\\Entities\\Receipt.cs",
+              "RelativeDocumentMoniker": "Entities\\Receipt.cs",
+              "ToolTip": "C:\\Users\\MilanGavric\\OneDrive - Milovanovi\u0107 \u0026 Milovanovi\u0107 d.o.o. Beograd\\Desktop\\Milan\\PetShop1\\PetShop\\Entities\\Receipt.cs",
+              "RelativeToolTip": "Entities\\Receipt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T15:05:30.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\MilanGavric\\OneDrive - Milovanovi\u0107 \u0026 Milovanovi\u0107 d.o.o. Beograd\\Desktop\\Milan\\PetShop1\\PetShop\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\User.cs",
+              "ToolTip": "C:\\Users\\MilanGavric\\OneDrive - Milovanovi\u0107 \u0026 Milovanovi\u0107 d.o.o. Beograd\\Desktop\\Milan\\PetShop1\\PetShop\\Entities\\User.cs",
+              "RelativeToolTip": "Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T15:01:05.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PetType.cs",
+              "DocumentMoniker": "C:\\Users\\MilanGavric\\OneDrive - Milovanovi\u0107 \u0026 Milovanovi\u0107 d.o.o. Beograd\\Desktop\\Milan\\PetShop1\\PetShop\\Entities\\PetType.cs",
+              "RelativeDocumentMoniker": "Entities\\PetType.cs",
+              "ToolTip": "C:\\Users\\MilanGavric\\OneDrive - Milovanovi\u0107 \u0026 Milovanovi\u0107 d.o.o. Beograd\\Desktop\\Milan\\PetShop1\\PetShop\\Entities\\PetType.cs",
+              "RelativeToolTip": "Entities\\PetType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T14:46:43.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\MilanGavric\\OneDrive - Milovanovi\u0107 \u0026 Milovanovi\u0107 d.o.o. Beograd\\Desktop\\Milan\\PetShop1\\PetShop\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\MilanGavric\\OneDrive - Milovanovi\u0107 \u0026 Milovanovi\u0107 d.o.o. Beograd\\Desktop\\Milan\\PetShop1\\PetShop\\Entities\\Role.cs",
+              "RelativeToolTip": "Entities\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T14:42:45.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\MilanGavric\\OneDrive - Milovanovi\u0107 \u0026 Milovanovi\u0107 d.o.o. Beograd\\Desktop\\Milan\\PetShop1\\PetShop\\Entities\\Pet.cs",
+              "RelativeDocumentMoniker": "Entities\\Pet.cs",
+              "ToolTip": "C:\\Users\\MilanGavric\\OneDrive - Milovanovi\u0107 \u0026 Milovanovi\u0107 d.o.o. Beograd\\Desktop\\Milan\\PetShop1\\PetShop\\Entities\\Pet.cs",
+              "RelativeToolTip": "Entities\\Pet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T15:02:44.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MilanGavric\\OneDrive - Milovanovi\u0107 \u0026 Milovanovi\u0107 d.o.o. Beograd\\Desktop\\Milan\\PetShop1\\PetShop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\MilanGavric\\OneDrive - Milovanovi\u0107 \u0026 Milovanovi\u0107 d.o.o. Beograd\\Desktop\\Milan\\PetShop1\\PetShop\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T14:18:56.071Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
