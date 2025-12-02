@@ -1,6 +1,6 @@
 ﻿[
   {
-    "Id": 1,
+    "Id": "b9a6c7f8-8c26-4b9f-8ac8-31b69b9c3d91",
     "LatinName": "Felis catus",
     "Name": "Maca",
     "Type": 0,
@@ -8,7 +8,7 @@
     "Sold": false
   },
   {
-    "Id": 2,
+    "Id": "d42a6749-43aa-4f50-a7b5-cf230b8bb0a1",
     "LatinName": "Canis lupus familiaris",
     "Name": "Pas",
     "Type": 0,

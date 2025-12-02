@@ -1,16 +1,16 @@
 ﻿[
   {
-    "Id": 1,
+    "Id": "7c5a90c9-8e43-41ac-b28a-f15e2652fa7f",
     "Username": "admin",
     "Password": "1234",
     "FullName": "Pera Peric",
-    "Role": 0
+    "UserRole": 0
   },
   {
-    "Id": 2,
+    "Id": "c6fdb4de-2d8c-4e4a-9a2c-d4ad4adbc819",
     "Username": "sales",
     "Password": "123",
     "FullName": "Marko Maric",
-    "Role": 1
+    "UserRole": 1
   }
 ]

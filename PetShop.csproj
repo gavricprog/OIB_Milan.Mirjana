@@ -51,6 +51,9 @@
     <Compile Include="Entities\Receipt.cs" />
     <Compile Include="Entities\Role.cs" />
     <Compile Include="Entities\User.cs" />
+    <Compile Include="Presentation\MainMenu.cs" />
+    <Compile Include="Presentation\ManagerMenu.cs" />
+    <Compile Include="Presentation\SalesmanMenu.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositories\IPetRepository.cs" />
@@ -59,22 +62,34 @@
     <Compile Include="Repositories\PetRepositoryJson.cs" />
     <Compile Include="Repositories\ReceiptRepositoryJson.cs" />
     <Compile Include="Repositories\UserRepositoryJson.cs" />
-    <Compile Include="Services\FileLoggerService.cs" />
-    <Compile Include="Services\ILoggerService.cs" />
-    <Compile Include="Services\LogType.cs" />
+    <Compile Include="Services\AuthService.cs" />
+    <Compile Include="Services\DaySaleService.cs" />
+    <Compile Include="Logging\FileLoggerService.cs" />
+    <Compile Include="Services\IAuthService.cs" />
+    <Compile Include="Logging\ILoggerService.cs" />
+    <Compile Include="Services\IPetService.cs" />
+    <Compile Include="Services\IReceiptService.cs" />
+    <Compile Include="Services\ISaleService.cs" />
+    <Compile Include="Logging\LogType.cs" />
+    <Compile Include="Services\NightSaleService.cs" />
+    <Compile Include="Services\PetService.cs" />
+    <Compile Include="Services\ReceiptService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="Data\users.json" />
+    <None Include="Data\users.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
-    <Folder Include="Logging\" />
-    <Folder Include="Presentation\" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="Data\pets.txt" />
-    <Content Include="Data\receipts.txt" />
+    <None Include="Data\pets.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\receipts.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

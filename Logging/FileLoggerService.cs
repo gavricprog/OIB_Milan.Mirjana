@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PetShop.Services
+namespace PetShop.Logging
 {
     public class FileLoggerService : ILoggerService
     {

@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using PetShop.Entities;
 
 namespace PetShop.Services
 {
-    public interface ILoggerService
+    public interface IAuthService
     {
-        void Log(string message, LogType type);
+        User Login(string username, string password);
     }
-
 }
